@@ -1,0 +1,57 @@
+[
+    {
+      "offer_id": "1001",
+      "product_name": "Smartphone XYZ",
+      "description": "Get the latest smartphone with advanced features.",
+      "original_price": 799.99,
+      "discounted_price": 699.99,
+      "valid_until": "2024-03-15",
+      "image_url": "https://i.ibb.co/wJXzTZM/1.jpg"
+    },
+    {
+      "offer_id": "1002",
+      "product_name": "Wireless Earbuds",
+      "description": "High-quality wireless earbuds for an immersive audio experience.",
+      "original_price": 59.99,
+      "discounted_price": 49.99,
+      "valid_until": "2024-03-10",
+      "image_url": "https://i.ibb.co/YP3ZsZ6/8.jpgg"
+    },
+    {
+      "offer_id": "1003",
+      "product_name": "Fashionable Backpack",
+      "description": "Stylish and spacious backpack for your everyday needs.",
+      "original_price": 39.99,
+      "discounted_price": 29.99,
+      "valid_until": "2024-03-08",
+      "image_url": "https://i.ibb.co/FVsD0X2/10.jpgg"
+    },
+    {
+      "offer_id": "1004",
+      "product_name": "Fitness Tracker",
+      "description": "Monitor your health and achieve your fitness goals with this advanced tracker.",
+      "original_price": 79.99,
+      "discounted_price": 69.99,
+      "valid_until": "2024-03-12",
+      "image_url": "https://i.ibb.co/XZhhySF/4-5.jpg"
+    },
+    {
+      "offer_id": "1005",
+      "product_name": "HD Smart TV",
+      "description": "Upgrade your entertainment experience with this high-definition smart TV.",
+      "original_price": 599.99,
+      "discounted_price": 499.99,
+      "valid_until": "2024-03-20",
+      "image_url": "https://i.ibb.co/QMwMkMX/offer1.webp"
+    },
+    {
+      "offer_id": "1006",
+      "product_name": "Gaming Laptop",
+      "description": "Powerful gaming laptop for an immersive gaming experience.",
+      "original_price": 1299.99,
+      "discounted_price": 1199.99,
+      "valid_until": "2024-03-18",
+      "image_url": "https://i.ibb.co/ygTcCGp/2.jpg"
+    }
+  ]
+  
